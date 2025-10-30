@@ -1,0 +1,6 @@
+# SSH config for Kubernetes nodes
+Host k8s-node-*
+  User ubuntu
+  IdentityFile ~/.ssh/id_rsa
+  StrictHostKeyChecking no
+  UserKnownHostsFile /dev/null

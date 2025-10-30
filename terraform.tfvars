@@ -1,0 +1,12 @@
+yandex_cloud_id = "b1gn8f1m9uivuia7afb1"
+yandex_folder_id = "b1gk5ctg70i9isfvukqp"
+yandex_token = "y0__xDHgoaYARjB3RMgkL6Z6BQwq8OJgQgpvRQaJzLf43R9zxIVKQRk8sTK_g"
+ssh_public_key = "~/.ssh/id_rsa.pub"
+ssh_private_key_path = "~/.ssh/id_rsa"
+cluster_name = "my-k8s-cluster"
+node_count = 3
+zone = "ru-central1-a"
+k8s_version = "1.30"
+node_disk_size = 64
+node_memory = 4
+node_cores = 2
