@@ -16,6 +16,7 @@ nano terraform.tfvars
 
 
 #Сделать файлы исполняемыми
+
 chmod +x get-node-ips.sh
 
 chmod +x setup-cluster.sh
