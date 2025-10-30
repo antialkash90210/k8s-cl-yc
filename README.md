@@ -6,11 +6,14 @@ git clone git@github.com:antialkash90210/k8s-cluster-yc.git
 
 cd k8s-cl-yc/
 
+
 #Выводит все параметры текущего активного профиля конфигурации
 yc config list
 
+
 #Добавить свои значения конфигурации
 nano terraform.tfvars
+
 
 #Сделать файлы исполняемыми
 chmod +x get-node-ips.sh
