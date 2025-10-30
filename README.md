@@ -45,3 +45,8 @@ terraform apply
 ./ssh-to-node.sh
 
 ./destroy-cluster.sh
+
+<img width="813" height="602" alt="1" src="https://github.com/user-attachments/assets/e77344bc-2ba1-4c73-99d8-cdbfd3e7e705" />
+<img width="1177" height="407" alt="2" src="https://github.com/user-attachments/assets/ab5fe4ab-2fc3-4d20-92e4-3dafe37bba71" />
+<img width="1105" height="198" alt="3" src="https://github.com/user-attachments/assets/31c02b40-4305-4b8b-8f0e-b91cb0ead621" />
+<img width="1828" height="323" alt="4" src="https://github.com/user-attachments/assets/60407e9a-31c0-4252-a735-464f7a6d8b0e" />
