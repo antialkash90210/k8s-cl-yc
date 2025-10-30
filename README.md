@@ -23,12 +23,15 @@ chmod +x destroy-cluster.sh
 
 # Команды для работы с Terraform
 #Инициализация
+
 terraform init
 
 #Планирование
+
 terraform plan
 
 #Применение
+
 terraform apply
 
 # Запуск скриптов
