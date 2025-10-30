@@ -2,7 +2,7 @@
 
 #Скопировать проект
 
-git clone git@github.com:antialkash90210/k8s-cluster-yc.git
+git clone git@github.com:antialkash90210/k8s-cl-yc.git
 
 cd k8s-cl-yc/
 
