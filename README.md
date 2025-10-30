@@ -12,6 +12,7 @@ yc config list
 
 
 #Добавить свои значения конфигурации
+
 nano terraform.tfvars
 
 
